@@ -1,0 +1,35 @@
+
+  .nav-tabs {
+    background-color: #ffe6f0; 
+    border-radius: 8px;
+    padding: 10px;
+  }
+
+  .nav-tabs .nav-link {
+    color: #444 !important; 
+    font-size: 18px;
+  }
+
+  .nav-tabs .nav-link:hover {
+    background-color: #ffb6d9; 
+    color: white !important;
+    border-radius: 5px;
+  }
+
+ body {
+    background-image: url('/IMAGEN/fondo2.jpg'); /* URL de huellitas */
+    background-repeat: repeat;        
+    background-size: 1000px 1000px;      
+    background-color: #e81ac9;        
+  }
+  
+
+
+
+
+
+
+
+
+
+
